@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soulessknight97
-- 👀 I’m interested in ... Android development
-- 🌱 I’m currently learning ... Cotlin and how to build android apps
+- 👀 I’m interested in ... Web development
+- 🌱 I’m currently learning ... JavaScript and C++ and how to build websites using HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ... variety of projects
 - 📫 How to reach me ... dm me here 
 
